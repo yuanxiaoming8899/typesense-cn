@@ -1,157 +1,195 @@
-<p align="center">
-  <a href="https://typesense.org"><img src="assets/typesense_logo.svg" alt="Typesense" width="298" /></a> 
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+  <a href="https://typesense.org" rel="nofollow"><img src="/typesense/typesense/raw/main/assets/typesense_logo.svg" alt="类型感应" width="298" style="max-width: 100%;"></a> 
 </p>
-<p align="center">
-  Typesense is a fast, typo-tolerant search engine for building delightful search experiences.
-</p>
-
-<p align="center">
-  An Open Source Algolia Alternative & <br>
-  An Easier-to-Use ElasticSearch Alternative
-</p>
-
-<p align="center">
- <!-- <a href="https://circleci.com/gh/typesense/typesense"><img src="https://circleci.com/gh/typesense/typesense.svg?style=shield&circle-token=1addd775339738a3d90869ddd8201110d561feaa"></a> -->
- <a href="https://hub.docker.com/r/typesense/typesense/tags"><img src="https://img.shields.io/docker/pulls/typesense/typesense"></a>
-  <a href="https://github.com/typesense"><img src="https://img.shields.io/github/stars/typesense/typesense?label=github%20stars&style=flat"></a><br>
-  <a href="https://cloud.typesense.org"><img src="https://img.shields.io/badge/searches_per_month_on_typesense_cloud-2.5 Billion-blue"></a>
-<p>
-<p align="center">
-  <a href="https://typesense.org">Website</a> | 
-  <a href="https://typesense.org/docs/">Documentation</a> | 
-  <a href="https://github.com/orgs/typesense/projects/1">Roadmap</a> | 
-  <a href="https://join.slack.com/t/typesense-community/shared_invite/zt-25mb3r14m-60o24PIIkDt~a6x7mk1XDQ">Slack Community</a> | 
-  <a href="https://threads.typesense.org/kb">Community Threads</a> | 
-  <a href="https://twitter.com/typesense">Twitter</a> | 
-  <a href="https://calendly.com/jason-typesense/typesense-office-hours">Office Hours</a>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  Typesense 是一个快速、容错的搜索引擎，用于构建令人愉快的搜索体验。
+</font></font></p>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  开源 Algolia 替代方案和</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  更易于使用的 ElasticSearch 替代方案
+</font></font></p>
+<p align="center" dir="auto">
+ 
+ <a href="https://hub.docker.com/r/typesense/typesense/tags" rel="nofollow"><img src="https://camo.githubusercontent.com/6059f77e1e3ad5ff9b39a78d73acb4614009c5036a336dc252adf318c97eb04b/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f7479706573656e73652f7479706573656e7365" data-canonical-src="https://img.shields.io/docker/pulls/typesense/typesense" style="max-width: 100%;"></a>
+  <a href="https://github.com/typesense"><img src="https://camo.githubusercontent.com/352dffa7d23eb21c2e06597381183b7ab1f4e98e07e3eec516607e56c253baaf/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f7479706573656e73652f7479706573656e73653f6c6162656c3d6769746875622532307374617273267374796c653d666c6174" data-canonical-src="https://img.shields.io/github/stars/typesense/typesense?label=github%20stars&amp;style=flat" style="max-width: 100%;"></a><br>
+  <a href="https://cloud.typesense.org" rel="nofollow"><img src="https://camo.githubusercontent.com/6d21596e53e12ac661179ffc7797b4aca52610899d53797be59da872dc109e45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73656172636865735f7065725f6d6f6e74685f6f6e5f7479706573656e73655f636c6f75642d322e352042696c6c696f6e2d626c7565" data-canonical-src="https://img.shields.io/badge/searches_per_month_on_typesense_cloud-2.5 Billion-blue" style="max-width: 100%;"></a>
+</p><p dir="auto">
+</p><p align="center" dir="auto">
+  <a href="https://typesense.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| 
+  </font></font><a href="https://typesense.org/docs/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| 
+  </font></font><a href="https://github.com/orgs/typesense/projects/1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">路线图</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| 
+  </font></font><a href="https://join.slack.com/t/typesense-community/shared_invite/zt-25mb3r14m-60o24PIIkDt~a6x7mk1XDQ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Slack 社区</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| 
+  </font></font><a href="https://threads.typesense.org/kb" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区主题</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| 
+  </font></font><a href="https://twitter.com/typesense" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">推特</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| 
+  </font></font><a href="https://calendly.com/jason-typesense/typesense-office-hours" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工作时间</font></font></a>
 </p>
 <br>
-<p align="center">
-  <img src="assets/typesense_books_demo.gif?raw=true" alt="Typesense Demo" width="459" />
+<p align="center" dir="auto">
+  <animated-image data-catalyst="" style="width: 459px;"><a target="_blank" rel="noopener noreferrer" href="/typesense/typesense/blob/main/assets/typesense_books_demo.gif?raw=true" data-target="animated-image.originalLink"><img src="/typesense/typesense/raw/main/assets/typesense_books_demo.gif?raw=true" alt="Typesense 演示" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/typesense/typesense/blob/main/assets/typesense_books_demo.gif?raw=true" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="Typesense 演示" class="AnimatedImagePlayer-animatedImage" src="https://github.com/typesense/typesense/raw/main/assets/typesense_books_demo.gif?raw=true" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="459" height="254"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="播放 Typesense 演示" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="播放 Typesense 演示">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="在新窗口中打开 Typesense 演示" class="AnimatedImagePlayer-button" href="https://github.com/typesense/typesense/blob/main/assets/typesense_books_demo.gif?raw=true" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
 </p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✨ 以下是一些</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现场演示</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，展示了 Typesense 在大型数据集上的实际应用：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从 MusicBrainz 搜索 3200 万首歌曲数据集：</font></font><a href="https://songs-search.typesense.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">songs-search.typesense.org</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从 OpenLibrary 搜索 28M 图书数据集：</font></font><a href="https://books-search.typesense.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">books-search.typesense.org</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从 RecipeNLG 搜索 2M 食谱数据集：</font></font><a href="https://recipe-search.typesense.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">recipe-search.typesense.org</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从 Linux 内核搜索 1M Git 提交消息：</font></font><a href="https://linux-commits-search.typesense.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">linux-commits-search.typesense.org</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">带提前输入功能的拼写检查器，包含 333K 英语单词：</font></font><a href="https://spellcheck.typesense.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">spellcheck.typesense.org</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电子商务商店浏览体验：</font></font><a href="https://ecommerce-store.typesense.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ecommerce-store.typesense.org</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">地理搜索/浏览体验：</font></font><a href="https://airbnb-geosearch.typesense.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">airbnb-geosearch.typesense.org</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">按主题搜索/浏览 xkcd 漫画：</font></font><a href="https://xkcd-search.typesense.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">xkcd-search.typesense.org</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对 30 万条 HN 评论进行语义/混合搜索：</font></font><a href="https://hn-comments-search.typesense.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">hn-comments-search.typesense.org</font></font></a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🗣️🎥如果您喜欢看视频：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们在这里介绍 Typesense 并展示演练：</font></font><a href="https://youtu.be/F4mB0x_B1AE?t=144" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://youtu.be/F4mB0x_B1AE ?t=144</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看 Typesense 最近在 Google I/O 开发者主题演讲中提到的内容：</font></font><a href="https://youtu.be/qBkyU1TJKDg?t=2399" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://youtu.be/qBkyU1TJKDg ?t=2399</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的一位社区成员在这里概述了 Typesense 并向您展示了端到端演示：</font></font><a href="https://www.youtube.com/watch?v=kwtHOkf7Jdg" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.youtube.com/watch?v =kwtHOkf7Jdg</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-quick-links" class="anchor" aria-hidden="true" tabindex="-1" href="#quick-links"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速链接</font></font></h2>
+<ul dir="auto">
+<li><a href="#features"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></a></li>
+<li><a href="#benchmarks"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基准测试</font></font></a></li>
+<li><a href="#roadmap"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">路线图</font></font></a></li>
+<li><a href="#whos-using-this"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">谁在使用这个</font></font></a></li>
+<li><a href="#install"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></a></li>
+<li><a href="#quick-start"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速开始</font></font></a></li>
+<li><a href="#step-by-step-walk-through"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分步演练</font></font></a></li>
+<li><a href="#api-documentation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">API文档</font></font></a></li>
+<li><a href="#api-clients"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">API客户端</font></font></a></li>
+<li><a href="#search-ui-components"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">搜索 UI 组件</font></font></a></li>
+<li><a href="#faq"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">常问问题</font></font></a></li>
+<li><a href="#support"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持</font></font></a></li>
+<li><a href="#contributing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a></li>
+<li><a href="#getting-latest-updates"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取最新更新</font></font></a></li>
+<li><a href="#build-from-source"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从源代码构建</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-features" class="anchor" aria-hidden="true" tabindex="-1" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></h2>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打字错误容错：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">优雅地处理打字错误，开箱即用。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">简单而令人愉快：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置、集成、操作和扩展都很简单。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚡ 速度极快：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用 C++ 构建。</font><font style="vertical-align: inherit;">从头开始精心设计，可实现低延迟（&lt;50ms）即时搜索。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可调排名：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">轻松定制您的搜索结果以达到完美。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">排序：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在查询时根据特定字段动态对结果进行排序（对于“按价格排序 (asc)”等功能很有帮助）。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分面和过滤：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深入研究并细化结果。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分组和不同：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将相似的结果分组在一起以显示更多的多样性。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联合搜索：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在单个 HTTP 请求中跨多个集合（索引）进行搜索。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">地理搜索：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">按纬度/经度周围或边界框内的结果进行搜索和排序。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">矢量搜索：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Typesense 中对机器学习模型中的嵌入进行索引并进行最近邻搜索。</font><font style="vertical-align: inherit;">可用于构建相似性搜索、语义搜索、视觉搜索、推荐等。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">语义/混合搜索：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 S-BERT、E-5 等内置模型自动从 Typesense 内生成嵌入，或使用 OpenAI、PaLM API 等进行查询和索引数据。</font><font style="vertical-align: inherit;">这允许您将 JSON 数据发送到 Typesense 并构建开箱即用的语义搜索 + 关键字搜索体验。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">范围 API 密钥：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为多租户应用程序生成仅允许访问某些记录的 API 密钥。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">同义词：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将单词定义为彼此等效的单词，因此搜索单词也会返回定义的同义词的结果。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">管理和营销：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将特定记录提升到搜索结果中的固定位置，以突出显示它们。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于 Raft 的集群：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置高可用的分布式集群。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无缝版本升级：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">随着 Typesense 新版本的出现，升级就像换出二进制文件并重新启动 Typesense 一样简单。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无运行时依赖性：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Typesense 是一个二进制文件，您可以使用单个命令在本地或生产环境中运行。</font></font></li>
+</ul>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此列表中没有看到某个功能？</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果有人已经请求，请搜索我们的问题跟踪器，并向其添加评论以解释您的用例，如果没有，则打开一个新问题。</font><font style="vertical-align: inherit;">我们根据用户反馈确定路线图的优先顺序，因此我们很乐意听取您的意见。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-roadmap" class="anchor" aria-hidden="true" tabindex="-1" href="#roadmap"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">路线图</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是 Typesense 的公共路线图：</font></font><a href="https://github.com/orgs/typesense/projects/1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/orgs/typesense/projects/1</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第一专栏还解释了我们如何确定功能的优先级、您如何影响优先级和我们的发布节奏。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-benchmarks" class="anchor" aria-hidden="true" tabindex="-1" href="#benchmarks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基准测试</font></font></h2>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">包含220 万个食谱</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（食谱名称和成分）
+</font><font style="vertical-align: inherit;">的数据集：</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Typesense 中建立索引时占用约 900MB 的 RAM</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">花费 3.6 分钟为所有 220 万条记录建立索引</font></font></li>
+<li><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在具有 4vCPU 的服务器上，Typesense每秒</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">能够处理104 个并发搜索查询</font><font style="vertical-align: inherit;">，平均搜索处理时间为</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">11ms</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">包含2800 万本书的</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据集</font><font style="vertical-align: inherit;">（书名、作者和类别）：
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Typesense 中建立索引时占用约 14GB RAM</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">花了 78 分钟来索引所有 28M 记录</font></font></li>
+<li><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在具有 4vCPU 的服务器上，Typesense每秒</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">能够处理46 个并发搜索查询</font><font style="vertical-align: inherit;">，平均搜索处理时间为</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">28ms</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于包含300 万个产品</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（Amazon 产品数据）的数据集</font><font style="vertical-align: inherit;">，Typesense 能够</font><font style="vertical-align: inherit;">在 8 个 vCPU 3 节点高可用 Typesense 集群上处理</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">每秒 250 个并发搜索查询的吞吐量。</font></font></strong><font style="vertical-align: inherit;"></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果我们能在公共领域找到大型数据集，我们很乐意使用更大的数据集进行基准测试。</font><font style="vertical-align: inherit;">如果您对开放的结构化数据集有任何建议，请通过提出问题告诉我们。</font><font style="vertical-align: inherit;">如果您能够分享您自己的大型数据集的基准，我们也会很高兴。</font><font style="vertical-align: inherit;">请向我们发送 PR！</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-whos-using-this" class="anchor" aria-hidden="true" tabindex="-1" href="#whos-using-this"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">谁在用这个？</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Typesense 被不同领域和垂直领域的一系列用户使用。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Typesense Cloud 上，我们每月</font><font style="vertical-align: inherit;">提供超过</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">25 亿次搜索服务。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Typesense 的 Docker 镜像下载量已超过 700 万次。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们最近开始在我们的</font></font><a href="/typesense/typesense/blob/main/SHOWCASE.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">展示柜</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中记录谁在使用它。</font><font style="vertical-align: inherit;">如果您想包含在列表中，请随时编辑</font></font><a href="/typesense/typesense/blob/main/SHOWCASE.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SHOWCASE.md</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并向我们发送 PR。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://cloud.typesense.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您还将在Typesense Cloud</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主页</font><font style="vertical-align: inherit;">上看到用户徽标列表。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-install" class="anchor" aria-hidden="true" tabindex="-1" href="#install"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></h2>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">选项 1：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以下载</font><font style="vertical-align: inherit;">我们为 Linux（x86_64 和 arm64）和 Mac（x86_64）发布的</font></font><a href="https://typesense.org/downloads" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">二进制包。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">选项 2：您还可以从我们的</font></font></strong><font style="vertical-align: inherit;"></font><a href="https://hub.docker.com/r/typesense/typesense" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">官方 Docker 映像</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">运行 Typesense </font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">选项 3：使用</font></font></strong><font style="vertical-align: inherit;"></font><a href="https://cloud.typesense.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Typesense Cloud</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">启动托管集群</font><font style="vertical-align: inherit;">：</font></font></p>
+<p dir="auto"><a href="https://cloud.typesense.org" rel="nofollow"><img src="/typesense/typesense/raw/main/assets/deploy_with_typesense_cloud.svg?raw=true" alt="使用 Typesense Cloud 进行部署" height="60" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-quick-start" class="anchor" aria-hidden="true" tabindex="-1" href="#quick-start"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速开始</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下面是一个简单示例，展示了如何创建集合、索引文档以及在 Typesense 上搜索它。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">让我们首先通过 Docker 启动 Typesense 服务器：</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>docker run -p 8108:8108 -v/tmp/data:/data typesense/typesense:0.25.2 --data-dir /data --api-key=Hu52dwsas2AdxdE
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker run -p 8108:8108 -v/tmp/data:/data typesense/typesense:0.25.2 --data-dir /data --api-key=Hu52dwsas2AdxdE" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们有</font><font style="vertical-align: inherit;">多种语言的</font></font><a href="#api-clients"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">API 客户端，但在此示例中我们使用 Python 客户端。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 Typesense 的 Python 客户端：</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>pip install typesense
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pip install typesense" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们现在可以初始化客户端并创建一个</font></font><code>companies</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">集合：</font></font></p>
+<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">import</span> <span class="pl-s1">typesense</span>
 
-✨ Here are a couple of **live demos** that show Typesense in action on large datasets:
+<span class="pl-s1">client</span> <span class="pl-c1">=</span> <span class="pl-s1">typesense</span>.<span class="pl-v">Client</span>({
+  <span class="pl-s">'api_key'</span>: <span class="pl-s">'Hu52dwsas2AdxdE'</span>,
+  <span class="pl-s">'nodes'</span>: [{
+    <span class="pl-s">'host'</span>: <span class="pl-s">'localhost'</span>,
+    <span class="pl-s">'port'</span>: <span class="pl-s">'8108'</span>,
+    <span class="pl-s">'protocol'</span>: <span class="pl-s">'http'</span>
+  }],
+  <span class="pl-s">'connection_timeout_seconds'</span>: <span class="pl-c1">2</span>
+})
 
-- Search a 32M songs dataset from MusicBrainz: [songs-search.typesense.org](https://songs-search.typesense.org/)
-- Search a 28M books dataset from OpenLibrary: [books-search.typesense.org](https://books-search.typesense.org/)
-- Search a 2M recipe dataset from RecipeNLG: [recipe-search.typesense.org](https://recipe-search.typesense.org/)
-- Search 1M Git commit messages from the Linux Kernel: [linux-commits-search.typesense.org](https://linux-commits-search.typesense.org/)
-- Spellchecker with type-ahead, with 333K English words: [spellcheck.typesense.org](https://spellcheck.typesense.org/)
-- An E-Commerce Store Browsing experience: [ecommerce-store.typesense.org](https://ecommerce-store.typesense.org/)
-- GeoSearch / Browsing experience: [airbnb-geosearch.typesense.org](https://airbnb-geosearch.typesense.org/)
-- Search / Browse xkcd comics by topic: [xkcd-search.typesense.org](https://xkcd-search.typesense.org/)
-- Semantic / Hybrid search on 300K HN comments: [hn-comments-search.typesense.org](https://hn-comments-search.typesense.org)
-
-🗣️ 🎥 If you prefer watching videos:
-
-- Here's one where we introduce Typesense and show a walk-through: https://youtu.be/F4mB0x_B1AE?t=144
-- Check out Typesense's recent mention during Google I/O Developer Keynote: https://youtu.be/qBkyU1TJKDg?t=2399
-- Here's one where one of our community members gives an overview of Typesense and shows you an end-to-end demo: https://www.youtube.com/watch?v=kwtHOkf7Jdg
-
-## Quick Links
-
-- [Features](#features)
-- [Benchmarks](#benchmarks)
-- [Roadmap](#roadmap)
-- [Who's using this](#whos-using-this)
-- [Install](#install)
-- [Quick Start](#quick-start)
-- [Step-by-step Walk-through](#step-by-step-walk-through)
-- [API Documentation](#api-documentation)
-- [API Clients](#api-clients)
-- [Search UI Components](#search-ui-components)
-- [FAQ](#faq)
-- [Support](#support)
-- [Contributing](#contributing)
-- [Getting Latest Updates](#getting-latest-updates)
-- [Build from Source](#build-from-source)
-
-## Features
-
-- **Typo Tolerance:** Handles typographical errors elegantly, out-of-the-box.
-- **Simple and Delightful:** Simple to set-up, integrate with, operate and scale.
-- **⚡ Blazing Fast:** Built in C++. Meticulously architected from the ground-up for low-latency (<50ms) instant searches.
-- **Tunable Ranking:** Easy to tailor your search results to perfection.
-- **Sorting:** Dynamically sort results based on a particular field at query time (helpful for features like "Sort by Price (asc)").
-- **Faceting & Filtering:** Drill down and refine results.
-- **Grouping & Distinct:** Group similar results together to show more variety.
-- **Federated Search:** Search across multiple collections (indices) in a single HTTP request.
-- **Geo Search:** Search and sort by results around a latitude/longitude or within a bounding box.
-- **Vector Search:** Index embeddings from your machine learning models in Typesense and do a nearest-neighbor search. Can be used to build similarity search, semantic search, visual search, recommendations, etc.
-- **Semantic / Hybrid Search:** Automatically generate embeddings from within Typesense using built-in models like S-BERT, E-5, etc or use OpenAI, PaLM API, etc, for both queries and indexed data. This allows you to send JSON data into Typesense and build an out-of-the-box semantic search + keyword search experience.
-- **Scoped API Keys:** Generate API keys that only allow access to certain records, for multi-tenant applications.
-- **Synonyms:** Define words as equivalents of each other, so searching for a word will also return results for the synonyms defined.
-- **Curation & Merchandizing:** Boost particular records to a fixed position in the search results, to feature them.
-- **Raft-based Clustering:** Setup a distributed cluster that is highly available.
-- **Seamless Version Upgrades:** As new versions of Typesense come out, upgrading is as simple as swapping out the binary and restarting Typesense.
-- **No Runtime Dependencies:** Typesense is a single binary that you can run locally or in production with a single command.
-
-**Don't see a feature on this list?** Search our issue tracker if someone has already requested it and add a comment to it explaining your use-case, or open a new issue if not. We prioritize our roadmap based on user feedback, so we'd love to hear from you.
-
-## Roadmap
-
-Here's Typesense's public roadmap: [https://github.com/orgs/typesense/projects/1](https://github.com/orgs/typesense/projects/1).
-
-The first column also explains how we prioritize features, how you can influence prioritization and our release cadence. 
-
-## Benchmarks
-
-- A dataset containing **2.2 Million recipes** (recipe names and ingredients):
-  - Took up about 900MB of RAM when indexed in Typesense
-  - Took 3.6mins to index all 2.2M records
-  - On a server with 4vCPUs, Typesense was able to handle a concurrency of **104 concurrent search queries per second**, with an average search processing time of **11ms**.
-- A dataset containing **28 Million books** (book titles, authors and categories):
-  - Took up about 14GB of RAM when indexed in Typesense
-  - Took 78mins to index all 28M records
-  - On a server with 4vCPUs, Typesense was able to handle a concurrency of **46 concurrent search queries per second**, with an average search processing time of **28ms**.
-- With a dataset containing **3 Million products** (Amazon product data), Typesense was able to handle a throughput of **250 concurrent search queries per second** on an 8-vCPU 3-node Highly Available Typesense cluster.
-
-We'd love to benchmark with larger datasets, if we can find large ones in the public domain. If you have any suggestions for structured datasets that are open, please let us know by opening an issue. We'd also be delighted if you're able to share benchmarks from your own large datasets. Please send us a PR! 
-
-## Who's using this?
-
-Typesense is used by a range of users across different domains and verticals.
-
-On Typesense Cloud we serve more than **2.5 BILLION** searches per month. Typesense's Docker images have been downloaded over 7M times.
-
-We've recently started documenting who's using it in our [Showcase](SHOWCASE.md).
-If you'd like to be included in the list, please feel free to edit [SHOWCASE.md](SHOWCASE.md) and send us a PR.
-
-You'll also see a list of user logos on the [Typesense Cloud](https://cloud.typesense.org) home page.
-
-## Install
-
-**Option 1:** You can download the [binary packages](https://typesense.org/downloads) that we publish for 
-Linux (x86_64 & arm64) and Mac (x86_64).
-
-**Option 2:** You can also run Typesense from our [official Docker image](https://hub.docker.com/r/typesense/typesense).
-
-**Option 3:** Spin up a managed cluster with [Typesense Cloud](https://cloud.typesense.org):
-
-<a href="https://cloud.typesense.org"><img src="assets/deploy_with_typesense_cloud.svg?raw=true" alt="Deploy with Typesense Cloud" height="60" /></a> 
-
-## Quick Start
-
-Here's a quick example showcasing how you can create a collection, index a document and search it on Typesense.
- 
-Let's begin by starting the Typesense server via Docker:
-
-```
-docker run -p 8108:8108 -v/tmp/data:/data typesense/typesense:0.25.2 --data-dir /data --api-key=Hu52dwsas2AdxdE
-```
-
-We have [API Clients](#api-clients) in a couple of languages, but let's use the Python client for this example.
-
-Install the Python client for Typesense:
- 
-```
-pip install typesense
-```
-
-We can now initialize the client and create a `companies` collection:
-
-```python
-import typesense
+<span class="pl-s1">create_response</span> <span class="pl-c1">=</span> <span class="pl-s1">client</span>.<span class="pl-s1">collections</span>.<span class="pl-en">create</span>({
+  <span class="pl-s">"name"</span>: <span class="pl-s">"companies"</span>,
+  <span class="pl-s">"fields"</span>: [
+    {<span class="pl-s">"name"</span>: <span class="pl-s">"company_name"</span>, <span class="pl-s">"type"</span>: <span class="pl-s">"string"</span> },
+    {<span class="pl-s">"name"</span>: <span class="pl-s">"num_employees"</span>, <span class="pl-s">"type"</span>: <span class="pl-s">"int32"</span> },
+    {<span class="pl-s">"name"</span>: <span class="pl-s">"country"</span>, <span class="pl-s">"type"</span>: <span class="pl-s">"string"</span>, <span class="pl-s">"facet"</span>: <span class="pl-c1">True</span> }
+  ],
+  <span class="pl-s">"default_sorting_field"</span>: <span class="pl-s">"num_employees"</span>
+})</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="import typesense
 
 client = typesense.Client({
   'api_key': 'Hu52dwsas2AdxdE',
@@ -164,240 +202,196 @@ client = typesense.Client({
 })
 
 create_response = client.collections.create({
-  "name": "companies",
-  "fields": [
-    {"name": "company_name", "type": "string" },
-    {"name": "num_employees", "type": "int32" },
-    {"name": "country", "type": "string", "facet": True }
+  &quot;name&quot;: &quot;companies&quot;,
+  &quot;fields&quot;: [
+    {&quot;name&quot;: &quot;company_name&quot;, &quot;type&quot;: &quot;string&quot; },
+    {&quot;name&quot;: &quot;num_employees&quot;, &quot;type&quot;: &quot;int32&quot; },
+    {&quot;name&quot;: &quot;country&quot;, &quot;type&quot;: &quot;string&quot;, &quot;facet&quot;: True }
   ],
-  "default_sorting_field": "num_employees"
-})
-```
-
-Now, let's add a document to the collection we just created:
-
-```python
-document = {
- "id": "124",
- "company_name": "Stark Industries",
- "num_employees": 5215,
- "country": "USA"
+  &quot;default_sorting_field&quot;: &quot;num_employees&quot;
+})" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现在，让我们向刚刚创建的集合添加一个文档：</font></font></p>
+<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-s1">document</span> <span class="pl-c1">=</span> {
+ <span class="pl-s">"id"</span>: <span class="pl-s">"124"</span>,
+ <span class="pl-s">"company_name"</span>: <span class="pl-s">"Stark Industries"</span>,
+ <span class="pl-s">"num_employees"</span>: <span class="pl-c1">5215</span>,
+ <span class="pl-s">"country"</span>: <span class="pl-s">"USA"</span>
 }
 
-client.collections['companies'].documents.create(document)
-```
+<span class="pl-s1">client</span>.<span class="pl-s1">collections</span>[<span class="pl-s">'companies'</span>].<span class="pl-s1">documents</span>.<span class="pl-en">create</span>(<span class="pl-s1">document</span>)</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="document = {
+ &quot;id&quot;: &quot;124&quot;,
+ &quot;company_name&quot;: &quot;Stark Industries&quot;,
+ &quot;num_employees&quot;: 5215,
+ &quot;country&quot;: &quot;USA&quot;
+}
 
-Finally, let's search for the document we just indexed:
+client.collections['companies'].documents.create(document)" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最后，让我们搜索刚刚索引的文档：</font></font></p>
+<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-s1">search_parameters</span> <span class="pl-c1">=</span> {
+  <span class="pl-s">'q'</span>         : <span class="pl-s">'stork'</span>,
+  <span class="pl-s">'query_by'</span>  : <span class="pl-s">'company_name'</span>,
+  <span class="pl-s">'filter_by'</span> : <span class="pl-s">'num_employees:&gt;100'</span>,
+  <span class="pl-s">'sort_by'</span>   : <span class="pl-s">'num_employees:desc'</span>
+}
 
-```python
-search_parameters = {
+<span class="pl-s1">client</span>.<span class="pl-s1">collections</span>[<span class="pl-s">'companies'</span>].<span class="pl-s1">documents</span>.<span class="pl-en">search</span>(<span class="pl-s1">search_parameters</span>)</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="search_parameters = {
   'q'         : 'stork',
   'query_by'  : 'company_name',
   'filter_by' : 'num_employees:>100',
   'sort_by'   : 'num_employees:desc'
 }
 
-client.collections['companies'].documents.search(search_parameters)
-```
-
-**Did you notice the typo in the query text?** No big deal. Typesense handles typographic errors out-of-the-box!
-
-## Step-by-step Walk-through
-
-A step-by-step walk-through is available on our website [here](https://typesense.org/guide). 
-
-This will guide you through the process of starting up a Typesense server, indexing data in it and querying the data set. 
-
-## API Documentation
-
-Here's our official API documentation, available on our website: [https://typesense.org/api](https://typesense.org/api).
-
-If you notice any issues with the documentation or walk-through, please let us know or send us a PR here: [https://github.com/typesense/typesense-website](https://github.com/typesense/typesense-website).
-
-## API Clients
-
-While you can definitely use CURL to interact with Typesense Server directly, we offer official API clients to simplify using Typesense from your language of choice. The API Clients come built-in with a smart retry strategy to ensure that API calls made via them are resilient, especially in an HA setup.
-
-- [JavaScript](https://github.com/typesense/typesense-js)
-- [PHP](https://github.com/typesense/typesense-php)
-- [Python](https://github.com/typesense/typesense-python)
-- [Ruby](https://github.com/typesense/typesense-ruby)
-
-If we don't offer an API client in your language, you can still use any popular HTTP client library to access Typesense's APIs directly. 
-
-Here are some community-contributed clients and integrations:
-
-- [Go](https://github.com/typesense/typesense-go)
-- [.Net](https://github.com/DAXGRID/typesense-dotnet)
-- [Java](https://github.com/typesense/typesense-java)
-- [Rust](https://github.com/typesense/typesense-rust)
-- [Dart](https://github.com/typesense/typesense-dart)
-- [Perl](https://github.com/Ovid/Search-Typesense)
-- [Swift](https://github.com/typesense/typesense-swift)
-- [Clojure](https://github.com/runeanielsen/typesense-clj)
-- [python orm client](https://github.com/RedSnail/typesense_orm)
-- [PHP SEAL Adapter](https://github.com/schranz-search/seal-typesense-adapter)
-- [Elixir](https://github.com/jaeyson/ex_typesense)
-
-We welcome community contributions to add more official client libraries and integrations. Please reach out to us at contact@typsense.org or open an issue on GitHub to collaborate with us on the architecture. 🙏
-
-### Framework Integrations
-
-We also have the following framework integrations:
-
-- [Laravel](https://github.com/typesense/laravel-scout-typesense-engine)
-- [Firebase](https://github.com/typesense/firestore-typesense-search)
-- [Gatsby](https://www.gatsbyjs.com/plugins/gatsby-plugin-typesense/)
-- [WordPress](https://wordpress.org/plugins/search-with-typesense/?ref=typesense)
-- [WooCommerce](https://www.codemanas.com/downloads/typesense-search-for-woocommerce/?ref=typesense)
-- [Symfony](https://github.com/acseo/TypesenseBundle)
-- [InstantSearch](https://github.com/typesense/typesense-instantsearch-adapter)
-- [DocSearch](https://typesense.org/docs/guide/docsearch.html)
-- [Docusaurus](https://github.com/typesense/docusaurus-theme-search-typesense)
-- [ToolJet](https://tooljet.com/?ref=typesense)
-- [Plone CMS](https://pypi.org/project/zopyx.typesense/)
-- [Craft CMS](https://plugins.craftcms.com/typesense)
-- [SEAL](https://github.com/schranz-search/schranz-search) provides integrations of Typesense in Laravel, Symfony, Spiral, Yii and Laminas Mezzio PHP Framework
-
-### Postman Collection
-
-We have a community-maintained Postman Collection here: [https://github.com/typesense/postman](https://github.com/typesense/postman).
-
-[Postman](https://www.postman.com/downloads/) is an app that let's you perform HTTP requests by pointing and clicking, instead of having to type them out in the terminal.
-The Postman Collection above gives you template requests that you can import into Postman, to quickly make API calls to Typesense.
-
-## Search UI Components
-
-You can use our [InstantSearch.js adapter](https://github.com/typesense/typesense-instantsearch-adapter) 
-to quickly build powerful search experiences, complete with filtering, sorting, pagination and more.
-
-Here's how: [https://typesense.org/docs/guide/search-ui-components.html](https://typesense.org/docs/guide/search-ui-components.html) 
-
-## FAQ
-
-### How does this differ from Elasticsearch?
-
-Elasticsearch is a large piece of software, that takes non-trivial amount of effort to setup, administer, scale and fine-tune. 
-It offers you a few thousand configuration parameters to get to your ideal configuration. So it's better suited for large teams 
-who have the bandwidth to get it production-ready, regularly monitor it and scale it, especially when they have a need to store 
-billions of documents and petabytes of data (eg: logs).
-
-Typesense is built specifically for decreasing the "time to market" for a delightful search experience. It's a light-weight
-yet powerful & scaleable alternative that focuses on Developer Happiness and Experience with a clean well-documented API, clear semantics 
-and smart defaults so it just works well out-of-the-box, without you having to turn many knobs.
-
-Elasticsearch also runs on the JVM, which by itself can be quite an effort to tune to run optimally. Typesense, on the other hand, 
-is a single light-weight self-contained native binary, so it's simple to setup and operate.
-
-See a side-by-side feature comparison [here](https://typesense.org/typesense-vs-algolia-vs-elasticsearch-vs-meilisearch/).
-
-### How does this differ from Algolia?
-
-Algolia is a proprietary, hosted, search-as-a-service product that works well, when cost is not an issue. From our experience,
-fast growing sites and apps quickly run into search & indexing limits, accompanied by expensive plan upgrades as they scale.
-
-Typesense on the other hand is an open-source product that you can run on your own infrastructure or
-use our managed SaaS offering - [Typesense Cloud](https://cloud.typesense.org). 
-The open source version is free to use (besides of course your own infra costs). 
-With Typesense Cloud we don't charge by records or search operations. Instead, you get a dedicated cluster
-and you can throw as much data and traffic at it as it can handle. You only pay a fixed hourly cost & bandwidth charges 
-for it, depending on the configuration your choose, similar to most modern cloud platforms. 
-
-From a product perspective, Typesense is closer in spirit to Algolia than Elasticsearch. 
-However, we've addressed some important limitations with Algolia: 
-
-Algolia requires separate indices for each sort order, which counts towards your plan limits. Most of the index settings like 
-fields to search, fields to facet, fields to group by, ranking settings, etc 
-are defined upfront when the index is created vs being able to set them on the fly at query time.
-
-With Typesense, these settings can be configured at search time via query parameters which makes it very flexible
-and unlocks new use cases. Typesense is also able to give you sorted results with a single index, vs having to create multiple.
-This helps reduce memory consumption.
-
-Algolia offers the following features that Typesense does not have currently: personalization & server-based search analytics. For analytics, you can still instrument your search on the client-side and send search metrics to your web analytics tool of choice. 
-
-We intend to bridge this gap in Typesense, but in the meantime, please let us know
-if any of these are a show stopper for your use case by creating a feature request in our issue tracker. 
-
-See a side-by-side feature comparison [here](https://typesense.org/typesense-vs-algolia-vs-elasticsearch-vs-meilisearch/).
-
-### Speed is great, but what about the memory footprint?
-
-A fresh Typesense server will consume about 30 MB of memory. As you start indexing documents, the memory use will 
-increase correspondingly. How much it increases depends on the number and type of fields you index. 
-
-We've strived to keep the in-memory data structures lean. To give you a rough idea: when 1 million 
-Hacker News titles are indexed along with their points, Typesense consumes 165 MB of memory. The same size of that data 
-on disk in JSON format is 88 MB. If you have any numbers from your own datasets that we can add to this section, please send us a PR!
-
-### Why the GPL license?
-
-From our experience companies are generally concerned when **libraries** they use are GPL licensed, since library code is directly integrated into their code and will lead to derivative work and trigger GPL compliance. However, Typesense Server is **server software** and we expect users to typically run it as a separate daemon, and not integrate it with their own code. GPL covers and allows for this use case generously **(eg: Linux is GPL licensed)**. Now, AGPL is what makes server software accessed over a network result in derivative work and not GPL. And for that reason we’ve opted to not use AGPL for Typesense. 
-
-Now, if someone makes modifications to Typesense server, GPL actually allows you to still keep the modifications to yourself as long as you don't distribute the modified code. So a company can for example modify Typesense server and run the modified code internally and still not have to open source their modifications, as long as they make the modified code available to everyone who has access to the modified software.
-
-Now, if someone makes modifications to Typesense server and distributes the modifications, that's where GPL kicks in. Given that we’ve published our work to the community, we'd like for others' modifications to also be made open to the community in the spirit of open source. **We use GPL for this purpose.** Other licenses would allow our open source work to be modified, made closed source and distributed, which we want to avoid with Typesense for the project’s long term sustainability.
-
-Here's more background on why GPL, as described by Discourse: https://meta.discourse.org/t/why-gnu-license/2531. Many of the points mentioned there resonate with us.
-
-Now, all of the above only apply to Typesense Server. Our client libraries are indeed meant to be integrated into our users’ code and so they use Apache license.
-
-So in summary, AGPL is what is usually problematic for server software and we’ve opted not to use it. We believe GPL for Typesense Server captures the essence of what we want for this open source project. GPL has a long history of successfully being used by popular open source projects. Our libraries are still Apache licensed.
-
-If you have specifics that prevent you from using Typesense due to a licensing issue, we're happy to explore this topic further with you. Please reach out to us.
-
-## Support
-
-👋 🌐 If you have general questions about Typesense, want to say hello or just follow along, we'd like to invite you to join our [Slack Community](https://join.slack.com/t/typesense-community/shared_invite/zt-25mb3r14m-60o24PIIkDt~a6x7mk1XDQ). 
-
-We also do virtual office hours every Friday. Reserve a time slot [here](https://calendly.com/jason-typesense/typesense-office-hours).
-
-If you run into any problems or issues, please create a GitHub issue and we'll try our best to help.
-
-We strive to provide good support through our issue trackers on GitHub. However, if you'd like to receive private & prioritized support with:
-
-- Guaranteed SLAs
-- Phone / video calls to discuss your specific use case and get recommendations on best practices
-- Private discussions over Slack
-- Guidance around deployment, ops and scaling best practices
-- Prioritized feature requests
-
-We do offer Paid Support options. Please reach out to us at contact@typesense.org to sign up.
-
-## Contributing
-
-We are a lean team on a mission to democratize search and we'll take all the help we can get! If you'd like to get involved, here's information on where we could use your help: [Contributing.md](https://github.com/typesense/typesense/blob/master/CONTRIBUTING.md)
-
-## Getting Latest Updates
-
-If you'd like to get updates when we release new versions, click on the "Watch" button on the top and select "Releases only". GitHub will then send you notifications along with a changelog with each new release.
-
-We also post updates to our Twitter account about releases and additional topics related to Typesense. Follow us here: [@typesense](https://twitter.com/typesense).
-
-👋 🌐 We'll also post updates on our [Slack Community](https://join.slack.com/t/typesense-community/shared_invite/zt-25mb3r14m-60o24PIIkDt~a6x7mk1XDQ). 
-
-## Build from source
-
-We use [Bazel](https://bazel.build) to build Typesense.
-
-Typesense requires the following dependencies: 
-
-* C++11 compatible compiler (GCC >= 4.9.0, Apple Clang >= 8.0, Clang >= 3.9.0)
-* Snappy
-* zlib
-* OpenSSL (>=1.0.2)
-* curl
-* ICU
-
-Please refer to the [CI build steps](.github/workflows/tests.yml) for the latest set of dependencies.
-
-Once you've installed them, run the following from the root of the repo:
-
-```shell
-bazel build //:typesense-server
-```
-
-The first build will take some time since other third-party libraries are pulled and built as part of the build process.
-
----
-&copy; 2016-present Typesense Inc.
+client.collections['companies'].documents.search(search_parameters)" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您注意到查询文本中的拼写错误了吗？</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">没什么大不了。</font><font style="vertical-align: inherit;">Typesense 可以开箱即用地处理印刷错误！</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-step-by-step-walk-through" class="anchor" aria-hidden="true" tabindex="-1" href="#step-by-step-walk-through"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分步演练</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://typesense.org/guide" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的网站上</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供了分步说明</font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这将指导您完成启动 Typesense 服务器、在其中索引数据以及查询数据集的过程。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-api-documentation" class="anchor" aria-hidden="true" tabindex="-1" href="#api-documentation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">API文档</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以下是我们的官方 API 文档，可在我们的网站上找到： https: </font></font><a href="https://typesense.org/api" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//typesense.org/api</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您发现文档或演练存在任何问题，请告知我们或在此处向我们发送 PR：https: </font></font><a href="https://github.com/typesense/typesense-website"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//github.com/typesense/typesense-website</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-api-clients" class="anchor" aria-hidden="true" tabindex="-1" href="#api-clients"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">API客户端</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">虽然您绝对可以使用 CURL 直接与 Typesense Server 交互，但我们提供官方 API 客户端，以简化您选择的语言中 Typesense 的使用。</font><font style="vertical-align: inherit;">API 客户端内置了智能重试策略，以确保通过它们进行的 API 调用具有弹性，尤其是在 HA 设置中。</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/typesense/typesense-js"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JavaScript</font></font></a></li>
+<li><a href="https://github.com/typesense/typesense-php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PHP</font></font></a></li>
+<li><a href="https://github.com/typesense/typesense-python"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Python</font></font></a></li>
+<li><a href="https://github.com/typesense/typesense-ruby"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">红宝石</font></font></a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果我们不提供您所用语言的 API 客户端，您仍然可以使用任何流行的 HTTP 客户端库直接访问 Typesense 的 API。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以下是一些社区贡献的客户端和集成：</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/typesense/typesense-go"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">去</font></font></a></li>
+<li><a href="https://github.com/DAXGRID/typesense-dotnet"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。网</font></font></a></li>
+<li><a href="https://github.com/typesense/typesense-java"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">爪哇</font></font></a></li>
+<li><a href="https://github.com/typesense/typesense-rust"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">锈</font></font></a></li>
+<li><a href="https://github.com/typesense/typesense-dart"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">镖</font></font></a></li>
+<li><a href="https://github.com/Ovid/Search-Typesense"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">珀尔</font></font></a></li>
+<li><a href="https://github.com/typesense/typesense-swift"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">迅速</font></font></a></li>
+<li><a href="https://github.com/runeanielsen/typesense-clj"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">克洛尤尔</font></font></a></li>
+<li><a href="https://github.com/RedSnail/typesense_orm"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">python orm 客户端</font></font></a></li>
+<li><a href="https://github.com/schranz-search/seal-typesense-adapter"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PHP 密封适配器</font></font></a></li>
+<li><a href="https://github.com/jaeyson/ex_typesense"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">灵丹妙药</font></font></a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们欢迎社区贡献以添加更多官方客户端库和集成。</font></font><a href="mailto:contact@typsense.org"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请通过contact@typsense.org</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联系我们</font><font style="vertical-align: inherit;">或在 GitHub 上提出问题，与我们就架构进行合作。</font><font style="vertical-align: inherit;">🙏</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-framework-integrations" class="anchor" aria-hidden="true" tabindex="-1" href="#framework-integrations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">框架集成</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们还有以下框架集成：</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/typesense/laravel-scout-typesense-engine"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">拉维尔</font></font></a></li>
+<li><a href="https://github.com/typesense/firestore-typesense-search"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">火力基地</font></font></a></li>
+<li><a href="https://www.gatsbyjs.com/plugins/gatsby-plugin-typesense/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">盖茨比</font></font></a></li>
+<li><a href="https://wordpress.org/plugins/search-with-typesense/?ref=typesense" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WordPress</font></font></a></li>
+<li><a href="https://www.codemanas.com/downloads/typesense-search-for-woocommerce/?ref=typesense" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WooCommerce</font></font></a></li>
+<li><a href="https://github.com/acseo/TypesenseBundle"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">交响乐团</font></font></a></li>
+<li><a href="https://github.com/typesense/typesense-instantsearch-adapter"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">即时搜索</font></font></a></li>
+<li><a href="https://typesense.org/docs/guide/docsearch.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档搜索</font></font></a></li>
+<li><a href="https://github.com/typesense/docusaurus-theme-search-typesense"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多库龙</font></font></a></li>
+<li><a href="https://tooljet.com/?ref=typesense" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工具喷射器</font></font></a></li>
+<li><a href="https://pypi.org/project/zopyx.typesense/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">克隆CMS</font></font></a></li>
+<li><a href="https://plugins.craftcms.com/typesense" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工艺CMS</font></font></a></li>
+<li><a href="https://github.com/schranz-search/schranz-search"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SEAL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Laravel、Symfony、Spiral、Yii 和 Laminas Mezzio PHP 框架中提供 Typesense 集成</font></font></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-postman-collection" class="anchor" aria-hidden="true" tabindex="-1" href="#postman-collection"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">邮递员收藏</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们这里有一个社区维护的 Postman Collection： https: </font></font><a href="https://github.com/typesense/postman"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//github.com/typesense/postman</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><a href="https://www.postman.com/downloads/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Postman</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一款应用程序，可让您通过指向和单击来执行 HTTP 请求，而不必在终端中键入它们。</font><font style="vertical-align: inherit;">上面的 Postman Collection 为您提供了模板请求，您可以将其导入 Postman，以快速对 Typesense 进行 API 调用。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-search-ui-components" class="anchor" aria-hidden="true" tabindex="-1" href="#search-ui-components"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">搜索 UI 组件</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以使用我们的</font></font><a href="https://github.com/typesense/typesense-instantsearch-adapter"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">InstantSearch.js 适配器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+快速构建强大的搜索体验，包括过滤、排序、分页等。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">具体方法如下：https: </font></font><a href="https://typesense.org/docs/guide/search-ui-components.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//typesense.org/docs/guide/search-ui-components.html</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-faq" class="anchor" aria-hidden="true" tabindex="-1" href="#faq"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">常问问题</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content-how-does-this-differ-from-elasticsearch" class="anchor" aria-hidden="true" tabindex="-1" href="#how-does-this-differ-from-elasticsearch"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这与 Elasticsearch 有什么不同？</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Elasticsearch 是一个大型软件，需要花费大量精力来设置、管理、扩展和微调。</font><font style="vertical-align: inherit;">它为您提供了数千个配置参数，以达到您的理想配置。</font><font style="vertical-align: inherit;">因此，它更适合拥有足够带宽使其投入生产、定期监控并扩展的大型团队，特别是当他们需要存储数十亿文档和 PB 数据（例如：日志）时。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Typesense 专为缩短“上市时间”而打造，提供令人愉悦的搜索体验。</font><font style="vertical-align: inherit;">它是一个轻量级但功能强大且可扩展的替代方案，专注于开发人员的幸福感和体验，具有干净、记录齐全的 API、清晰的语义和智能默认值，因此它开箱即用，无需转动许多旋钮。 。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Elasticsearch 也在 JVM 上运行，其本身就需要花费很大的精力才能调整到最佳运行状态。</font><font style="vertical-align: inherit;">另一方面，Typesense 是一个轻量级独立的本机二进制文件，因此设置和操作都很简单。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://typesense.org/typesense-vs-algolia-vs-elasticsearch-vs-meilisearch/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的并排功能比较</font><font style="vertical-align: inherit;">。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-how-does-this-differ-from-algolia" class="anchor" aria-hidden="true" tabindex="-1" href="#how-does-this-differ-from-algolia"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这与阿尔戈利亚有何不同？</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Algolia 是一种专有的、托管的搜索即服务产品，在成本不是问题的情况下效果很好。</font><font style="vertical-align: inherit;">根据我们的经验，快速增长的网站和应用程序很快就会遇到搜索和索引限制，并伴随着规模扩大时昂贵的计划升级。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">另一方面，Typesense 是一款开源产品，您可以在自己的基础设施上运行或使用我们的托管 SaaS 产品 - </font></font><a href="https://cloud.typesense.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Typesense Cloud</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">开源版本可以免费使用（当然除了您自己的基础设施成本）。</font><font style="vertical-align: inherit;">使用 Typesense Cloud，我们不按记录或搜索操作收费。</font><font style="vertical-align: inherit;">相反，您会获得一个专用集群，并且可以向其投入其能够处理的尽可能多的数据和流量。</font><font style="vertical-align: inherit;">您只需支付固定的每小时成本和带宽费用，具体取决于您选择的配置，类似于大多数现代云平台。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从产品角度来看，Typesense 在精神上更接近 Algolia，而不是 Elasticsearch。</font><font style="vertical-align: inherit;">然而，我们已经解决了 Algolia 的一些重要限制：</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Algolia 要求每个排序顺序都有单独的索引，这会计入您的计划限制。</font><font style="vertical-align: inherit;">大多数索引设置（例如要搜索的字段、要分面的字段、要分组的字段、排名设置等）都是在创建索引时预先定义的，而不是能够在查询时动态设置它们。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Typesense，可以在搜索时通过查询参数配置这些设置，这使其非常灵活并解锁新的用例。</font><font style="vertical-align: inherit;">Typesense 还能够使用单个索引为您提供排序结果，而不必创建多个索引。</font><font style="vertical-align: inherit;">这有助于减少内存消耗。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Algolia 提供了 Typesense 目前不具备的以下功能：个性化和基于服务器的搜索分析。</font><font style="vertical-align: inherit;">对于分析，您仍然可以在客户端检测搜索并将搜索指标发送到您选择的网络分析工具。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们打算在 Typesense 中弥合这一差距，但与此同时，请通过在我们的问题跟踪器中创建功能请求来告知我们其中是否有任何内容会阻碍您的使用案例。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://typesense.org/typesense-vs-algolia-vs-elasticsearch-vs-meilisearch/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的并排功能比较</font><font style="vertical-align: inherit;">。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-speed-is-great-but-what-about-the-memory-footprint" class="anchor" aria-hidden="true" tabindex="-1" href="#speed-is-great-but-what-about-the-memory-footprint"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">速度很快，但是内存占用呢？</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一个新的 Typesense 服务器将消耗大约 30 MB 的内存。</font><font style="vertical-align: inherit;">当您开始索引文档时，内存使用量将相应增加。</font><font style="vertical-align: inherit;">它增加多少取决于您索引的字段的数量和类型。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们努力保持内存中数据结构的精简。</font><font style="vertical-align: inherit;">给您一个粗略的了解：当 100 万个 Hacker News 标题及其要点被索引时，Typesense 会消耗 165 MB 内存。</font><font style="vertical-align: inherit;">磁盘上 JSON 格式的数据大小相同，为 88 MB。</font><font style="vertical-align: inherit;">如果您有自己数据集中的任何数字，我们可以添加到此部分，请向我们发送 PR！</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-why-the-gpl-license" class="anchor" aria-hidden="true" tabindex="-1" href="#why-the-gpl-license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为何采用 GPL 许可证？</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根据我们的经验，公司通常会担心他们使用的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">库</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是否获得 GPL 许可，因为库代码直接集成到他们的代码中，会导致衍生工作并触发 GPL 合规性。</font><font style="vertical-align: inherit;">但是，Typesense Server 是</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">服务器软件</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，我们希望用户通常将其作为单独的守护进程运行，而不是将其与自己的代码集成。</font><font style="vertical-align: inherit;">GPL 慷慨地涵盖并允许这种用例</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（例如：Linux 是 GPL 许可的）</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">现在，AGPL 使得通过网络访问的服务器软件能够产生衍生作品，而不是 GPL。</font><font style="vertical-align: inherit;">因此，我们选择不将 AGPL 用于 Typesense。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现在，如果有人对 Typesense 服务器进行修改，GPL 实际上允许您仍然保留自己的修改，只要您不分发修改后的代码。</font><font style="vertical-align: inherit;">因此，公司可以修改 Typesense 服务器并在内部运行修改后的代码，但仍然不必开源其修改，只要他们将修改后的代码提供给有权访问修改后软件的每个人即可。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现在，如果有人对 Typesense 服务器进行修改并分发修改，这就是 GPL 发挥作用的地方。鉴于我们已将我们的工作发布到社区，我们希望其他人的修改也能在开源精神。</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为此，我们使用 GPL。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">其他许可证将允许我们的开源工作被修改、闭源和分发，为了项目的长期可持续性，我们希望使用 Typesense 来避免这种情况。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以下是关于为什么使用 GPL 的更多背景信息，如 Discourse 所描述： https: </font></font><a href="https://meta.discourse.org/t/why-gnu-license/2531" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//meta.discourse.org/t/why-gnu-license/2531</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">其中提到的许多观点引起了我们的共鸣。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现在，以上所有内容仅适用于 Typesense Server。</font><font style="vertical-align: inherit;">我们的客户端库确实是为了集成到我们用户的代码中，因此他们使用 Apache 许可证。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">总而言之，AGPL 是服务器软件通常会出现问题的地方，我们选择不使用它。</font><font style="vertical-align: inherit;">我们相信 Typesense Server 的 GPL 抓住了我们想要这个开源项目的本质。</font><font style="vertical-align: inherit;">GPL 有着被流行的开源项目成功使用的悠久历史。</font><font style="vertical-align: inherit;">我们的库仍然获得 Apache 许可。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您因许可问题而无法使用 Typesense，我们很乐意与您进一步探讨此主题。</font><font style="vertical-align: inherit;">请联系我们。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-support" class="anchor" aria-hidden="true" tabindex="-1" href="#support"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👋 🌐 如果您有关于 Typesense 的一般性问题，想要打个招呼或只是继续关注，我们想邀请您加入我们的</font></font><a href="https://join.slack.com/t/typesense-community/shared_invite/zt-25mb3r14m-60o24PIIkDt~a6x7mk1XDQ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Slack 社区</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们每周五还提供虚拟办公时间。</font></font><a href="https://calendly.com/jason-typesense/typesense-office-hours" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在这里</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">预订一个时段</font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您遇到任何问题，请创建 GitHub 问题，我们将尽力提供帮助。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们努力通过 GitHub 上的问题跟踪器提供良好的支持。</font><font style="vertical-align: inherit;">但是，如果您想获得私人优先支持：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有保证的 SLA</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电话/视频通话讨论您的具体用例并获取最佳实践建议</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Slack 上的私人讨论</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关部署、操作和扩展最佳实践的指南</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">优先功能请求</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们确实提供付费支持选项。</font></font><a href="mailto:contact@typesense.org"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请通过contact@typesense.org</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联系我们</font><font style="vertical-align: inherit;">进行注册。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-contributing" class="anchor" aria-hidden="true" tabindex="-1" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们是一支精干团队，肩负着使搜索民主化的使命，我们将竭尽全力提供帮助！</font><font style="vertical-align: inherit;">如果您想参与其中，以下是我们可以在哪里使用您的帮助的信息：</font></font><a href="https://github.com/typesense/typesense/blob/master/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contributing.md</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-getting-latest-updates" class="anchor" aria-hidden="true" tabindex="-1" href="#getting-latest-updates"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取最新更新</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想在我们发布新版本时获取更新，请单击顶部的“观看”按钮并选择“仅发布”。</font><font style="vertical-align: inherit;">然后，GitHub 会向您发送通知以及每个新版本的变更日志。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们还会在 Twitter 帐户上发布有关 Typesense 相关版本和其他主题的更新。</font><font style="vertical-align: inherit;">在这里关注我们：</font></font><a href="https://twitter.com/typesense" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">@typesense</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👋 🌐 我们还将在</font></font><a href="https://join.slack.com/t/typesense-community/shared_invite/zt-25mb3r14m-60o24PIIkDt~a6x7mk1XDQ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Slack 社区</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上发布更新。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-build-from-source" class="anchor" aria-hidden="true" tabindex="-1" href="#build-from-source"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从源代码构建</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们使用</font></font><a href="https://bazel.build" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bazel</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来构建 Typesense。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Typesense 需要以下依赖项：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C++11 兼容编译器（GCC &gt;= 4.9.0、Apple Clang &gt;= 8.0、Clang &gt;= 3.9.0）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">活泼</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">兹库</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenSSL (&gt;=1.0.2)</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">卷曲</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">重症监护室</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="/typesense/typesense/blob/main/.github/workflows/tests.yml"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CI 构建步骤</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以获取最新的依赖项集。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装它们后，从存储库的根目录运行以下命令：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>bazel build //:typesense-server</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="bazel build //:typesense-server" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第一次构建将需要一些时间，因为其他第三方库是在构建过程中拉取和构建的。</font></font></p>
+<hr>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">© 2016 年至今 Typesense Inc.</font></font></p>
+</article></div>
